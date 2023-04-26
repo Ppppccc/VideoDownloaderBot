@@ -16,27 +16,27 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":""
+            "value":"10932521"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":""
+		    "value":"0b2b956cc9e134a5be396da8034a2336"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":""
+            "value":"6154037346:AAEgNxPXiSZCuwq1UFNcey5QwRZINs9wkLA"
         },
         "AUTH_USERS":{
             "description":"Users who can use",
-            "value":""
+            "value":"1333766323"
         },
         "GROUPS":{
             "description":"Groups where to work",
-            "value":""
+            "value":"1764396618"
         },
         "JSON_GROUPS":{
             "description":"Groups where to work for json",
-            "value":""
+            "value":"1826103254"
         },
         "THUMB":{
             "description":"Thumbnail link. Leave empty for using video thumbnail.",
